@@ -1,0 +1,18 @@
+|       C1       ||       C1       |
+|       P1       ||       P1       |
+|       P2       ||       P2       |
+|       P3       ||       P3       |
+|       P4       ||       P4       |
+|       P5       ||       P5       |
+|       P6       ||       P5       |
+|       P7       ||       P6       |
+|       P8       ||       P7       |
+
+Liste de pixel // une des liste dans la liste des liste de pixel
+NBélément = 0 // au début
+
+test :: [Pixel] -> Int
+test listPixel nbelement 
+
+1 - on prend NBélément + 1
+2 - on le test sur les différents centroides
